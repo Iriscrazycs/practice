@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 git learning practice remote
+=======
+git learning practice practice practice
+>>>>>>> Stashed changes
 second try
 third try
